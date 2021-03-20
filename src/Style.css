@@ -1,0 +1,24 @@
+
+
+
+body {
+    background-color: #FFCC00;
+    padding: 20px;
+    margin: 0;
+  }
+ 
+hr {
+  color:black
+}
+  
+  .nav {
+    background-color: #ebf0ed;
+    width: auto;
+    padding: 0;
+    color: bold rgb(211, 11, 11);
+    font-weight: 200;
+  }
+
+ .nav  {
+    margin-bottom: 20px;
+  }
